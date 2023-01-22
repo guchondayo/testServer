@@ -1,6 +1,6 @@
 <?php
 
-// 文字コード設定
+// 文字コード設定!
 header('Content-Type: application/json; charset=UTF-8');
 
 // // numが存在するかつnumが数字のみで構成されているか
